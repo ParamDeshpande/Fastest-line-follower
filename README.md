@@ -1,6 +1,6 @@
 # MazeRunnerVol2
 Maze solver and line follower with 90 and 135 degree turns
-All the files concatenate to one single file do not change the file names as it also changes the order in which they are placed if using a arduino board if using a atmel studio or 'c' else copy them in separate files( you dont need the procedure if you are already coding in raw c )
+All the files concatenate to one single file do not change the file names as it also changes the order in which they are placed if using a arduino board if using a atmel studio or 'c' else copy them in separate files( you would be smart enough to not be told procedure's if you were already coding in raw c )
 
 (about the bot) 
 
