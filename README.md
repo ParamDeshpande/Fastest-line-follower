@@ -11,7 +11,7 @@ All the files concatenate to one single file do not change the file names as it 
 * two battery operated motors with 500 RPM 1KG torque load
 
 ## Electronics Parts
-1. 8 analog output sensor
+1. 10 analog output sensor
 2. Arduino nano (default /  it also has 8 analog pins)
 3. Motor driver ( upto 45v)
 4. Battery (5x4.2 lithium ion cells)
